@@ -1,6 +1,6 @@
 # webpack-learning
 
-> A simple webpack configuration leanring.
+> A simple webpack configuration learning.
 
 **Hey!** :blush: This is webpack leanrning repo. where we learned below
 
