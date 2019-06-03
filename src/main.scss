@@ -1,0 +1,10 @@
+$primary: rgb(9, 52, 94);
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background-color: #ccc;
+
+    h1{
+        color: blue;
+    }
+}
