@@ -1,7 +1,6 @@
 {
   "name": "webpack-learning",
   "version": "1.0.0",
-  "description": "+ Let's start bundling with Webpack",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
